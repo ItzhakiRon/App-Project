@@ -1,2 +1,2 @@
-# App-Project
-Repository for App Project
+# First-App-Project
+Repository for First App Project
